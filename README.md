@@ -68,10 +68,10 @@ The application is built around several key features, each addressing specific u
 - **As a user**, I want to donate to the project so that I can support the initiative.
 
 ## Contributions
-- Tolebek Nazym
-- Amangeldinova Saya
-- Igenbek Zhaina
-- Tletay Azamat
+- Igenbek Zhaina **22B030368**
+- Syrlybay Ramazan **22B030445**
+- Rakhat Nurtileu **22B030581** 
+- Kuanysh Nursultan **22B030488**
 
 ## Screenshots
 
